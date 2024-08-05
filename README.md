@@ -20,9 +20,9 @@ This repository contains all the exercises, projects, and notes from my journey 
 
 Here is a list of DataCamp courses I have completed so far:
 
-1. [Introduction to Python for Developers](link to course)
-2. [Course Name 2](link to course)
-3. [Course Name 3](link to course)
+1. [Introduction to Python for Developers](https://app.datacamp.com/learn/courses/introduction-to-python-for-developers)
+2. 
+3. 
 
 Each course folder contains:
 
@@ -39,17 +39,17 @@ This section includes the projects I have worked on during the courses. Each pro
 - The code
 - Results and analysis
 
-### Project 1: Project Title
+### Project 1: 
 
-Description: Brief description of the project.
+Description: 
 
-Link: [Link to the project folder]
+Link: 
 
-### Project 2: Project Title
+### Project 2: 
 
-Description: Brief description of the project.
+Description: 
 
-Link: [Link to the project folder]
+Link: 
 
 ## Skills Developed
 
@@ -80,10 +80,6 @@ I plan to continue expanding this repository with more courses and projects, inc
 
 If you have any questions or suggestions, feel free to reach out to me:
 
-- **Name**: Mostafa Ahmed Mohamed Kamel
+- **Name**: Mostafa Kamel Elsoudy
 - **Email**: [mostafa.k.career@gmail.com](mailto:mostafa.k.career@gmail.com)
 - **LinkedIn**: [Mostafa Kamel](https://www.linkedin.com/in/mostafa-kamel-elsoudy-1b640618b/)
-
----
-
-Feel free to modify this structure and content to better suit your needs and preferences.
