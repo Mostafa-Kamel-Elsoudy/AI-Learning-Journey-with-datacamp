@@ -82,4 +82,4 @@ If you have any questions or suggestions, feel free to reach out to me:
 
 - **Name**: Mostafa Kamel Elsoudy
 - **Email**: [mostafa.k.career@gmail.com](mailto:mostafa.k.career@gmail.com)
-- **LinkedIn**: [Mostafa Kamel](https://www.linkedin.com/in/mostafa-kamel-elsoudy-1b640618b/)
+- **LinkedIn**: [Mostafa Kamel Elsoudy](https://www.linkedin.com/in/mostafa-kamel-elsoudy-1b640618b/)
