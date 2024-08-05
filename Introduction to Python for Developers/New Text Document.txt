@@ -1,0 +1,46 @@
+## Python as a calculator
+
+# Add 19 and 17
+print(19 + 17)
+
+# Subtract 12 from 99
+print(99 - 12)
+
+# Multiply 27 by 23
+print(27 * 23)
+
+# Divide 99 by 12
+print(99/12)
+
+####################################
+
+## Advanced calculations
+
+# Calculate and print nine squared
+print(9**2)
+
+# Find the remainder from 337 divided by 27
+print(337%27)
+
+
+## Checking data types
+
+# Print the data type of current_quarter
+print(type(current_quarter))
+# Print the data type of 9.75
+print(type(9.75))
+# Print the data type of revenue_on_target
+print(type(revenue_on_target))
+
+## Working with variables
+# Create a string variable called name
+name = "John Smith"
+
+# Create an integer variable called age
+age = 47
+
+# Create a string variable called address
+address = "The Shard, London, SE1 9SG"
+
+# Print their information
+print(name, age,  address)
