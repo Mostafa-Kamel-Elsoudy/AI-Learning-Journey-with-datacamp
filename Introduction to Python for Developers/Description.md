@@ -14,6 +14,6 @@ This course provides a comprehensive introduction to Python, a versatile and pow
 
 **Why Python?**
 - Python's simplicity and readability make it an excellent choice for beginners and professionals alike.
-- It supports various applications, from web development to data science.
+- It supports various AI applications.
 
 This course is highly rated and loved by learners at thousands of companies worldwide.
