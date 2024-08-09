@@ -2,8 +2,6 @@
 ### Introduction to Python for Developers - DataCamp
 
 **Course Duration:** 3 hours  
-**XP Earned:** 3,450 XP  
-**Badge:** Statement of Accomplishment  
 
 **Course Overview:**  
 This course provides a comprehensive introduction to Python, a versatile and powerful language widely used in software development. The course covers Python's fundamental concepts, making it accessible even for those with no prior programming experience. 
