@@ -19,7 +19,3 @@ This course provides a comprehensive introduction to Python, a versatile and pow
 - It supports various applications, from web development to data science.
 
 This course is highly rated and loved by learners at thousands of companies worldwide.
-
---- 
-
-Feel free to customize it further to match your style!
