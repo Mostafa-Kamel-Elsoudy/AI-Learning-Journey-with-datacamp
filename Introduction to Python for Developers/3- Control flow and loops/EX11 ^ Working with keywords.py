@@ -7,7 +7,7 @@ Loop through the keys and values of the genre_sales dictionary.
 Inside the loop, check if the genre is "Horror" or "Mystery".
 ---------------------------
 Loop through the keys and values of the genre_sales dictionary.
-Inside the loop, check if the genre is "Horror" or "Mystery".
+Inside the loop, check if the genre is "Horror" or "Mystery". 
 ==============================================
 """
 
