@@ -1,5 +1,4 @@
 """
-==============================================
  Name        : Get some assistance
  Author      : Mostafa Elsoudy
  Instructions :
