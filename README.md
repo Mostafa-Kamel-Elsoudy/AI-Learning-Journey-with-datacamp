@@ -21,7 +21,7 @@ This repository contains all the exercises, projects, and notes from my journey 
 Here is a list of DataCamp courses I have completed so far:
 
 1. [Introduction to Python for Developers](https://app.datacamp.com/learn/courses/introduction-to-python-for-developers)
-2. 
+2. [Intermediate Python for Developers](https://app.datacamp.com/learn/courses/Intermediate-python-for-developers)
 3. 
 
 Each course folder contains:
