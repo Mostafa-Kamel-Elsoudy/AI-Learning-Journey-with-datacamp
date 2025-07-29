@@ -1,29 +1,18 @@
 """
 ==============================================
- Name        : Cleaning text data
+ Name        : Adding tax
  Author      : Mostafa Elsoudy
- Instructions :
-Define the password_checker function, which should accept one argument called submission.
---------------------------------
-Check if password is equal to submission.
---------------------------------
-Add a keyword enabling the conditional printing of "Incorrect password" if password and submission are different.
---------------------------------
-Call the function, passing "NOT_VERY_SECURE_2023".
+ Instructions:
+ Define the add_tax lambda function, which multiplies the argument provided to it, x, by 1.2.
+ Call add_tax() on the sale_price variable and print the result.
 ==============================================
 """
 
-# Create the clean_string function
-def clean_string(text):
-  
-  # Replace spaces with underscores
-  no_space = text.replace(" ", "_")
-  
-  # Convert to lowercase
-  clean_string = no_space.lower()
-  
-  # Return the final text as an output
-  return clean_string
+# Given sale price
+sale_price = 29.99
 
-converted_text = clean_string("I LoVe dATaCamP!")
-print(converted_text)
+# Define a lambda function called add_tax that applies a 20% tax
+add_tax = lambda x: x * 1.2
+
+# Call the lambda function and print the taxed sale price
+print(add_tax(sale_price))
